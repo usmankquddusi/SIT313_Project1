@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <style name="HeaderBar">
+        <item name="android:background">#0059b3</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>
