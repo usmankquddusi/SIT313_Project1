@@ -31,7 +31,8 @@
                 android:layout_height="wrap_content"
                 android:layout_width="250dp"
                 android:text="Configure Shortcuts"
-                android:layout_gravity="center_horizontal" />
+                android:layout_gravity="center_horizontal"
+                app:MvxBind="Click ShowShortcutsCommand" />
         </LinearLayout>
     </RelativeLayout>
 </RelativeLayout>

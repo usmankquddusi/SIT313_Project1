@@ -336,23 +336,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/macbook/.nuget/packages/": {},
+    "/Users/aliraza/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/YourVoice.Core.csproj",
+      "projectUniqueName": "/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/YourVoice.Core.csproj",
       "projectName": "YourVoice.Core",
-      "projectPath": "/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/YourVoice.Core.csproj",
-      "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj",
+      "projectPath": "/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/YourVoice.Core.csproj",
+      "packagesPath": "/Users/aliraza/.nuget/packages/",
+      "outputPath": "/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/macbook/.config/NuGet/NuGet.Config"
+        "/Users/aliraza/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

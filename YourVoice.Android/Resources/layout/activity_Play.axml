@@ -21,10 +21,11 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_centerInParent="true">
-            <android.support.design.widget.TextInputEditText
+            <EditText
                 android:layout_height="60dp"
                 android:layout_width="match_parent"
                 android:gravity="center"
+                android:id="@+id/etText"
                 android:hint="Play Your Voice"
                 android:layout_gravity="center_horizontal" />
             <Button

@@ -1,9 +1,9 @@
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.deps.json
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.dll
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.pdb
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.csprojResolveAssemblyReference.cache
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.csproj.CoreCompileInputs.cache
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.AssemblyInfoInputs.cache
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.AssemblyInfo.cs
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.dll
-/Users/macbook/Desktop/YourVoice 2/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.pdb
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.deps.json
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.dll
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/bin/Debug/netstandard2.0/YourVoice.Core.pdb
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.csprojResolveAssemblyReference.cache
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.csproj.CoreCompileInputs.cache
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.AssemblyInfoInputs.cache
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.AssemblyInfo.cs
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.dll
+/Users/aliraza/Desktop/XamarinProjects/Xamarin.Android/YourVoice/YourVoice.Core/obj/Debug/netstandard2.0/YourVoice.Core.pdb
